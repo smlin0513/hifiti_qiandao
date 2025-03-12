@@ -107,8 +107,6 @@ crontab -e
 - 实现基本签到功能
 - 添加日志记录
 
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://www.star-history.com/embed?secret=Z2l0aHViX3BhdF8xMUFFTEVTTUEwSExiQ1ZOTGRoa1JNX1Y3dnpqR2tFckJ3Z241SHVxRUtSZ1V2d3lFMEpYNVA2amRORlRmVXFwYlVYQ1FOUFVPUWRDRzFCM3Fa#smlin0513/hifiti_qiandao&Date" frameBorder="0"></iframe>
-
 ## 许可证
 
 MIT License 
